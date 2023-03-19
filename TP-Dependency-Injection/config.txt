@@ -1,0 +1,2 @@
+com.zakaria.dao.DaoImpl
+com.zakaria.metier.MetierImpl
